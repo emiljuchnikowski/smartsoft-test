@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: User story is an informal, natural language description of features.
-title: ''
+title: 'USER_STORY - [description]'
 labels: ''
 assignees: ''
 
