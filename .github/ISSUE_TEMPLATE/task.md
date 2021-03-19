@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Task for the developer
-title: 'TASK: [description]
+title: TASK: [description]
 labels: ''
 assignees: ''
 
